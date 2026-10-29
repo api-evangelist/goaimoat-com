@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-goaimoat-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://goaimoat.com/
+GoAI Moat provides an AI‑visibility audit service that helps brands understand how they appear in AI‑generated answers across platforms like ChatGPT, Perplexity, Gemini and Google AI Overviews. Through a Model Context Protocol (MCP) server, developers can programmatically request audits, retrieve checklists, get fix‑priority recommendations and monitor usage. The service offers a free tier with one audit per email and a paid developer tier at $49 / month for unlimited access. Documentation, pricing, and a quick‑start guide are published on the company’s website.
+
+**Areas:** Company · AI · Visibility · MCP · SEO · Audit
+
+## goaimoat-com on APIs.io
+
+Everything profiled for goaimoat-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/goaimoat-com/](https://apis.io/providers/goaimoat-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [GoAI Moat MCP API](https://apis.io/apis/goaimoat-com/goai-moat-mcp-api/) — Model Context Protocol (MCP) servers providing AI agents data tools such as decision-maker lookup, company intel, search, scrape, and more.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Goaimoat Com Authentication](https://apis.io/security/goaimoat-com/goaimoat-com-authentication/)
+- [Goaimoat Com Domain Security](https://apis.io/security/goaimoat-com/goaimoat-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Goaimoat Com Scopes](https://apis.io/scopes/goaimoat-com/goaimoat-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Goaimoat Com Plans Pricing](https://apis.io/plans/goaimoat-com/goaimoat-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Goaimoat Com Rate Limits](https://apis.io/rate-limits/goaimoat-com/goaimoat-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://goaimoat.com/)
+- [Documentation](https://goaimoat.com/blog/developers.html)
+- [Getting started](https://goaimoat.com/blog/developers.html)
+- [API reference](https://goaimoat.com/blog/developers.html)
+- [Pricing](https://goaimoat.com/blog/developers.html)
+- [Sign up](https://goaimoat.gumroad.com/l/njpksu)
+- [Blog](https://goaimoat.com/blog/)
+- [GitHub](https://github.com/jayniebingyu-cyber)
+
+## API Evangelist rating
+
+**Kin Score 24.8** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 42.6 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/goaimoat-com/](https://apis.io/providers/goaimoat-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for goaimoat-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/goaimoat-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
